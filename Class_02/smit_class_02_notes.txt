@@ -1,0 +1,65 @@
+# is used for comment in python
+
+Topics:
+
+--> Variable In Python:
+Variables are containers for storing data values,
+
+id(); mean location of any variable or more,
+
+
+Types:
+
+1) String
+2) Int
+3) Float
+4) Boolean
+
+
+--> Operators In Python:
+
+1) +
+2) -
+3) *
+4) /
+
+floor round off to lower point
+ceil round off to upper point
+
+--> Reserved Keywords:
+
+- True, False
+- import
+- def
+- if, else, else if
+
+
+--> Mathematical Expression:
+
+some other operators
+1) Modulus
+2) The DMAS rule (1 - (2 * 3) / 4)
+
+--> Concatenation:
+
+Method One for Concatenation use for " , " , will do by default typecasting
+Method Second for Concatenation use for " + "
+Method Second for Concatenation use for " f " --> "f string"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
