@@ -1,0 +1,4 @@
+Function of Print
+class 01
+print("Hello World");
+print("Saylani class 1");
